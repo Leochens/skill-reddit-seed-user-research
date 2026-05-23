@@ -17,7 +17,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Leochens/reddit-seed-user-research.git ~/.codex/skills/reddit-seed-user-research
+git clone https://github.com/Leochens/skill-reddit-seed-user-research.git ~/.codex/skills/reddit-seed-user-research
 ```
 
 然后可以这样告诉 Codex：

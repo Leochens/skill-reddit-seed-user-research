@@ -17,7 +17,7 @@ A Codex skill for finding Reddit seed-user opportunities for a project and draft
 ## Installation
 
 ```bash
-git clone https://github.com/Leochens/reddit-seed-user-research.git ~/.codex/skills/reddit-seed-user-research
+git clone https://github.com/Leochens/skill-reddit-seed-user-research.git ~/.codex/skills/reddit-seed-user-research
 ```
 
 Then ask Codex:
