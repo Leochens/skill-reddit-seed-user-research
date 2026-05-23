@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reddit Seed User Research"
+  short_description: "Find Reddit seed-user reply opportunities."
+  default_prompt: "Use $reddit-seed-user-research to find Reddit seed-user opportunities for this project and draft helpful replies."
