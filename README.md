@@ -4,6 +4,8 @@
 
 [![GuanTou Lab](https://world.guantou.site/badge.svg?theme=dark&accent=red&lang=en&size=sm)](https://world.guantou.site/)
 
+![Reddit Seed User Research preview](assets/cover.svg)
+
 A Codex skill for finding Reddit seed-user opportunities for a project and drafting helpful, human replies. It is designed for demand discovery and value-first outreach, not automated posting.
 
 ## What It Helps With

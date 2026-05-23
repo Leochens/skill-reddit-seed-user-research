@@ -11,6 +11,7 @@ Ready for initial public release.
 - License: MIT `LICENSE` added.
 - README: English and Simplified Chinese documentation added.
 - Personal brand: README files include a GuanTou Lab badge linking to `https://world.guantou.site/`.
+- Repository preview: `assets/cover.svg` added and embedded in both README files.
 - Sensitive content: searched for common token, secret, password, private-key, local-path, and credential patterns.
 - `.gitignore`: added local research outputs such as `brand.md`, `brand.local.md`, and `reddit-report*.md`.
 - Dependencies: no runtime dependencies.

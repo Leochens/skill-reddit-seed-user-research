@@ -4,6 +4,8 @@
 
 [![罐头实验室](https://world.guantou.site/badge.svg?theme=dark&accent=red&lang=zh&size=sm)](https://world.guantou.site/)
 
+![Reddit Seed User Research 介绍图](assets/cover.svg)
+
 这是一个用于在 Reddit 上寻找项目种子用户机会的 Codex skill。它关注真实需求发现和有价值的低打扰回复，不做自动发帖。
 
 ## 它适合做什么
